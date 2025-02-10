@@ -37,6 +37,7 @@ nav a {
 }
 
 .grid-item {
+    max-width: 1000px;
     word-wrap: break-word;
     white-space: normal;
     background: rgba(255, 0, 255, 0.2);
